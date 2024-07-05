@@ -16,7 +16,7 @@ A quiz app is a web application that allows users to take quizzes on various top
 
 ## About this Project:
 
-An online practice test website is a web application that allows students to prepare for standardized tests or exams by taking practice tests, reviewing their performance, and tracking their progress. It typically features a comprehensive question bank, customizable practice tests, detailed performance analysis, and personalized feedback. Building an online practice test website using Laravel and MySQL provides a robust and scalable platform for delivering effective test preparation tools and enhancing student learning outcomes.
+An online practice test website is a web application that allows students to prepare for standardized tests or exams by taking practice tests, reviewing their performance, and tracking their progress. It typically features a comprehensive question bank, customizable practice tests, detailed performance analysis, and personalized feedback. Building an online practice test website using Laravel, Vue3 and MySQL provides a robust and scalable platform for delivering effective test preparation tools and enhancing student learning outcomes.
 <br>
 Connect with me at:
 
