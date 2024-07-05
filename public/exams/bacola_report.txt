@@ -1,0 +1,6 @@
+Kết quả đạt được
+- Các kiểu dữ liệu khi khởi tạo db migration
+- Factory - tao du lieu gia
+- Tao slug tu dong
+- Tạo Trait - giải quyết đa kế thừa, tái sử dụng code
+- 
