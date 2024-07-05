@@ -1,67 +1,91 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Quizz App.
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<p align='center'>
+<img src="https://img.shields.io/badge/laravel-white?logo=laravel" />
+<img src="https://img.shields.io/badge/vuejs-yellow?logo=vuejs" />
+<img src="https://img.shields.io/badge/mysql-orange?logo=Mysql" />
+<img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<hr class="dotted">
+A quiz app is a web application that allows users to take quizzes on various topics, test their knowledge
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## About this Project:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+An online practice test website is a web application that allows students to prepare for standardized tests or exams by taking practice tests, reviewing their performance, and tracking their progress. It typically features a comprehensive question bank, customizable practice tests, detailed performance analysis, and personalized feedback. Building an online practice test website using Laravel and MySQL provides a robust and scalable platform for delivering effective test preparation tools and enhancing student learning outcomes.
+<br>
+Connect with me at:
 
-## Learning Laravel
+<p align='center'>
+    
+  <a href="https://www.linkedin.com/in/nguyen-ben-b7798326a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<p align='center'>
+  📫 How to reach me: <a href='mailto:nben19732@gmail.com'>nben19732@gmail.com</a>
+</p>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Technology Used:
+- Laravel Framework
+- Vue3
+- Mysql
+- Tesseract OCR
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Free Features
+### Student functions:
++ Register
++ Login
++ Change personal information, change avatar, change password, etc
++ Participate in practice or participate in exams organized by teachers
++ Search (exam questions, practice questions)
+### Teacher's functions:
++ Register
++ Login
++ Change personal information, change avatar, change password, etc
++ Create exam questions (scan from photos, create manually)
++ Manage exam questions
++ Student management
++ Search (exam questions, students, teachers, etc.)
+ 
+## Screen 
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
+<img src="screen/1.jpg">
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
 
-## Contributing
+<img src="screen/2.jpg">
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+<img src="screen/3.jpg">
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+<img src="screen/4.jpg">
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
+<img src="screen/5.jpg">
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# quizz-app
+
+<img src="screen/6.jpg">
+
+
+<img src="screen/7.jpg">
+
+
+<img src="screen/8.jpg">
+
+
+<img src="screen/9.jpg">
+
+
+<img src="screen/10.jpg">
+
+
+<img src="screen/11.jpg">
