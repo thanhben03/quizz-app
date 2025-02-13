@@ -13,17 +13,17 @@ export default {
     setup() {
         const auth = authenStore();
         // axios.defaults.headers.common['Access-Control-Allow-Origin'] = '*';
-        axios.interceptors.response.use(response => {
-            return response;
-        }, error => {
-            if (error.response.status === 401) {
-                DestroyAuth();
+        // axios.interceptors.response.use(response => {
+        //     return response;
+        // }, error => {
+        //     if (error.response.status === 401) {
+        //         DestroyAuth();
 
-            }
-            return Promise.reject(error);
+        //     }
+        //     return Promise.reject(error);
 
 
-        })
+        // })
         onMounted(async () => {
             console.log('aa');
             if (auth.authenticated) {

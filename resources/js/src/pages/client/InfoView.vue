@@ -126,7 +126,7 @@
                                             <div class="my-container">
                                                 <div v-if="isLoading" class="loading d-flex">
                                                     <el-alert title="Đang tải lên ảnh của bạn !" type="warning" />
-                                                    <img width="30" src="/images/spin.gif" alt="">
+                                                    <!-- <img width="30" src="/images/spin.gif" alt=""> -->
                                                 </div>
 
                                                 <div class="avatar-upload">
